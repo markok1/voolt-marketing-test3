@@ -964,6 +964,9 @@ h2 {
   .hero-right picture img {
     width: 280px;
   }
+  .hero-right {
+    display: none;
+  }
 }
 @media screen and (max-width: 375px) {
   .hero-left .primary-button {
