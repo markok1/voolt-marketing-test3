@@ -1287,6 +1287,10 @@ h2 {
   .start-ad {
     padding: 40px 0px;
   }
+  .start-ad .primary-button {
+    max-width: 340px;
+    min-height: 56px;
+  }
   .start-ad h2 {
     font-size: 35px;
     line-height: 40px;
@@ -1603,9 +1607,9 @@ h2 {
     margin-top: 8px;
   }
   .how-it-works .primary-button {
-    font-size: 16px;
-    max-width: 216px;
-    min-height: 35px;
+    font-size: 18px !important;
+    max-width: 340px;
+    min-height: 56px;
     border-radius: 7px;
   }
   .how-it-works .how-marketing-holder {
@@ -1797,9 +1801,9 @@ h2 {
 }
 @media screen and (max-width: 768px) {
   .voolt-does .primary-button {
-    font-size: 16px;
-    max-width: 216px;
-    min-height: 35px;
+    font-size: 18px !important;
+    max-width: 340px;
+    min-height: 56px;
     border-radius: 7px;
   }
   .voolt-does-holder {
@@ -1943,9 +1947,9 @@ h2 {
     line-height: normal;
   }
   .charged .primary-button {
-    font-size: 16px;
-    max-width: 216px;
-    min-height: 35px;
+    font-size: 18px !important;
+    max-width: 340px;
+    min-height: 56px;
     border-radius: 7px;
   }
 }
@@ -2035,9 +2039,9 @@ h2 {
     line-height: 24px;
   }
   .directly-content .primary-button {
-    font-size: 16px;
-    max-width: 216px;
-    min-height: 35px;
+    font-size: 18px !important;
+    max-width: 340px;
+    min-height: 56px;
     border-radius: 7px;
   }
 }
@@ -2096,9 +2100,9 @@ h2 {
     line-height: 24px;
   }
   .track-content .primary-button {
-    font-size: 16px;
-    max-width: 216px;
-    min-height: 35px;
+    font-size: 18px !important;
+    max-width: 340px;
+    min-height: 56px;
     border-radius: 7px;
   }
 }
@@ -2273,9 +2277,9 @@ h2 {
     font-size: 14px;
   }
   .how-we-compare .primary-button {
-    font-size: 16px;
-    max-width: 216px;
-    min-height: 35px;
+    font-size: 18px !important;
+    max-width: 340px;
+    min-height: 56px;
     border-radius: 7px;
   }
   .how-we-compare .table {
@@ -2411,9 +2415,9 @@ h2 {
     font-size: 14px;
   }
   .video-section .primary-button {
-    font-size: 16px;
-    max-width: 216px;
-    min-height: 35px;
+    font-size: 18px !important;
+    max-width: 340px;
+    min-height: 56px;
     border-radius: 7px;
   }
   .video-section .play-button {
@@ -2484,9 +2488,9 @@ h2 {
     font-size: 14px;
   }
   .testimonials .primary-button {
-    font-size: 16px;
-    max-width: 216px;
-    min-height: 35px;
+    font-size: 18px !important;
+    max-width: 340px;
+    min-height: 56px;
     border-radius: 7px;
   }
   .testimonials .slick-arrow {
